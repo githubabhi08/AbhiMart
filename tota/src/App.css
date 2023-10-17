@@ -1,0 +1,144 @@
+body{
+  background-color: rgb(178, 178, 245);
+}
+.btn-group{
+  position: relative;
+  left: 470px;
+  top: -27px;
+}
+.total{
+  position: relative;
+  left: 970px;
+  top: -67px;
+}
+li{
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  top: 20px;
+}
+#ss button{
+  position: relative;
+  left: 750px;
+  background-color: #00ff00;
+}
+.clr{
+  color: black;
+}
+
+#bt1{
+  position: relative;
+  top: 150px;
+  left: 1270px;
+}
+
+
+#bt2{
+  position: relative;
+  top: 150px;
+  left: 1000px;
+}
+
+#bt3{
+  position: relative;
+  top: -607px;
+  left: 1120px;
+}
+
+h1{
+  color: red;
+  font-weight: 700;
+  top: 17px;
+  left: 670px;
+  position: relative;
+}
+
+
+/* mediaquery starts here... */
+
+@media screen and (max-width:408px){
+
+body{
+  background-color:rgb(250, 166, 180);
+}
+  
+  #high{
+    position: relative;
+    color: red;
+    font-weight: 700;
+    top: 17px;
+    left: 117px;
+    
+  }
+  .total{
+    position: relative;
+    left: 40px;
+    top: -22px;
+  }
+
+  #bt1{
+    position: relative;
+    top: -57px;
+    left: 67px;
+  }
+
+
+  #bt2{
+    position: relative;
+    top: -10px;
+    left: -145px;
+  }
+
+  #bt3{
+    position: relative;
+    top: -10px;
+    left: -35px;
+  }
+  
+}
+
+
+/* 2nd one */
+
+@media screen and (max-width:508px) and (min-width:409px){
+  #high{
+    position: relative;
+    color: red;
+    font-weight: 700;
+    top: 17px;
+    left: 117px;
+    
+  }
+  .total{
+    position: relative;
+    left: 40px;
+    top: -22px;
+  }
+
+  #bt1{
+    position: relative;
+    top: -57px;
+    left: 67px;
+  }
+
+
+  #bt2{
+    position: relative;
+    top: -10px;
+    left: -145px;
+  }
+
+  #bt3{
+    position: relative;
+    top: -10px;
+    left: -35px;
+  }
+  
+}
+
+
+
+
+
+
+
