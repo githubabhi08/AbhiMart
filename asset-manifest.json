@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbhiMart/static/css/main.dba6601a.css",
+    "main.js": "/AbhiMart/static/js/main.66e164e3.js",
+    "static/js/787.5b13765b.chunk.js": "/AbhiMart/static/js/787.5b13765b.chunk.js",
+    "index.html": "/AbhiMart/index.html",
+    "main.dba6601a.css.map": "/AbhiMart/static/css/main.dba6601a.css.map",
+    "main.66e164e3.js.map": "/AbhiMart/static/js/main.66e164e3.js.map",
+    "787.5b13765b.chunk.js.map": "/AbhiMart/static/js/787.5b13765b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba6601a.css",
+    "static/js/main.66e164e3.js"
+  ]
+}
